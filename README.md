@@ -234,6 +234,12 @@ The sequence repeats continuously.
 
 ---
 
+
+
+## Output
+<img width="1337" height="989" alt="WhatsApp Image 2026-09-24 at 1 48 32 PM" src="https://github.com/user-attachments/assets/54f36c91-7159-4857-801b-923e8f55eef0" />
+
+
 ##  Applications
 
 This type of sequential lighting system can be used in:
